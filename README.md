@@ -5,6 +5,7 @@
   - [Foundation](https://foundation.zurb.com/)
   - [Materialize CSS](https://materializecss.com/)
   - [Materialize Bootstrap](https://mdbootstrap.com/)
+  - [Material UI](https://material-ui.com/)
 
 ### JS Component
   - [Vue JS](https://vuejs.org/)
