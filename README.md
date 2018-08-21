@@ -6,6 +6,7 @@
   - [Materialize CSS](https://materializecss.com/)
   - [Materialize Bootstrap](https://mdbootstrap.com/)
   - [Material UI](https://material-ui.com/)
+  - [Pure CSS](https://purecss.io/)
 
 ### JS Component
   - [Vue JS](https://vuejs.org/)
