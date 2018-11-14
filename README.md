@@ -24,3 +24,4 @@
   - [CoolAdmin](https://github.com/ColorlibHQ/CoolAdmin)
   - [Metis Dashboard](https://github.com/puikinsh/Bootstrap-Admin-Template)
   - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+  - [CoreUI](https://coreui.io/)
