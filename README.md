@@ -25,3 +25,6 @@
   - [Metis Dashboard](https://github.com/puikinsh/Bootstrap-Admin-Template)
   - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
   - [CoreUI](https://coreui.io/)
+
+### Email
+  - [Cerberus](https://github.com/TedGoas/Cerberus) : Responsive Email Patterns
