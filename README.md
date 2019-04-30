@@ -17,6 +17,7 @@
   - [ReactJS](https://reactjs.org/)
   - [Angular](https://angular.io/)
   - [EmberJS](https://www.emberjs.com/)
+  - [Lodash](https://lodash.com/)
 
 ### Theme And Skin
   - [Admintor Dashboar](https://github.com/puikinsh/Adminator-admin-dashboard)
@@ -27,6 +28,9 @@
   - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
   - [CoreUI](https://coreui.io/)
   - [Stisla](https://github.com/stisla/stisla)
+  
+### Tools
+  - [ChessJSX](https://github.com/willb335/chessboardjsx)
 
 ### Email
   - [Cerberus](https://github.com/TedGoas/Cerberus) : Responsive Email Patterns
